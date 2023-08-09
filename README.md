@@ -5,6 +5,22 @@
  é preciso ter nest js installado.  -- > https://docs.nestjs.com/
  
 
+# Banco de Dados 
+ mysql
+
+# mysql
+é preciso ter baixado o mysql na maquina.\
+ter uma ferramenta que permite editar. `DBeaver`
+
+# configuração da base
+`       host: 'localhost',
+        port: 3306,
+        username: 'root',
+        password: 'root12345678',
+        database: 'crud',`
+
+  é preciso configurar sue ambiente com os dados de acesso igual
+  
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
