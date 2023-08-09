@@ -1,3 +1,11 @@
+# como rodar
+ clonar o projeto em sua maquina.\
+ rodar o yarn e subir o projeto. `yarn start`
+
+ é preciso ter nest js installado.  -- > https://docs.nestjs.com/
+ 
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
